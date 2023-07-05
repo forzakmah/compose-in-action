@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose in action</string>
+    <string name="title_for_chat_app_bar">Android group</string>
 </resources>
